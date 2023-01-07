@@ -2,16 +2,15 @@ body {
   background-color: aqua;
   text-align: center;
 }
-.links {
-  display: flex;
-  justify-content: space-around;
-  color: beige;
+.links a {
+  color: rgb(205, 205, 18);
   padding: 20px;
 }
 
 img {
   max-width: 500px;
   border-radius: 10px;
+  margin-bottom: 20px;
 }
 
 .special {
