@@ -3,6 +3,7 @@ body {
   text-align: center;
 }
 .links {
+  margin-top: 20px;
   display: flex;
   justify-content: space-evenly;
   color: beige;
@@ -10,4 +11,5 @@ body {
 
 img {
   max-width: 500px;
+  border-radius: 10px;
 }
