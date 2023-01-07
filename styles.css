@@ -3,13 +3,17 @@ body {
   text-align: center;
 }
 .links {
-  margin-top: 20px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   color: beige;
+  padding: 20px;
 }
 
 img {
   max-width: 500px;
   border-radius: 10px;
+}
+
+.special {
+  color: brown;
 }
