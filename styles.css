@@ -1,3 +1,13 @@
 body {
   background-color: aqua;
+  text-align: center;
+}
+.links {
+  display: flex;
+  justify-content: space-evenly;
+  color: beige;
+}
+
+img {
+  max-width: 500px;
 }
